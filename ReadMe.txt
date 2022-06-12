@@ -7,7 +7,7 @@ This is a guide to the Spline Prefab Placer Tool. This tool is meant to aid when
 of having to place the prefabs one by one, define the path along which they should travel and how many prefabs should be placed along that path. The tool will then 
 automatically place the given prefab. For an overview of installation and the main features of the tool, read the Installation guide and quick guide below.
 
-author: Rafael Hoek
+author: Rafael Hoek - LuGus Studios
 
 -----INSTALLATION-----
   1. Open the unity project in which you want to use this tool
